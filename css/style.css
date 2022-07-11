@@ -30,7 +30,7 @@
 }
 
 .banner-img img{
-    width: 100%;
+    width: 110%;
     /*height: 300px; */
 }
 
@@ -56,4 +56,35 @@
 
 #banner-text span{
     color: #21B573;
+}
+
+.menu{
+    margin-top: 100px;
+    margin-left: 50px;   
+}
+
+.menu img{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.menu h4{
+    color:#57558C;
+    text-align: center;
+}
+
+.menu h5{
+    text-align: center;
+    color: #818181;
+    font-weight: 300;
+}
+
+.menu:hover{
+    box-shadow: 2px 5px 20px #818181;
+}
+
+.menu img{
+    width: 50%;
 }
