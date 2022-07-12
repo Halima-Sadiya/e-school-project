@@ -68,6 +68,7 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+    width: 30%;
 }
 
 .menu h4{
@@ -85,6 +86,55 @@
     box-shadow: 2px 5px 20px #818181;
 }
 
-.menu img{
-    width: 50%;
+.heading h1{
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+    color:#57558C;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+.modern{
+    box-shadow: 2px 2px 20px #818181;
+}
+
+.modern h3{
+    font-size: 30px;
+    color:#57558C;
+    font-weight: 500;
+}
+
+.modern h5{
+    color: #818181;
+    font-weight: 400;
+}
+
+
+
+.cf img{
+    width: 20%;
+}
+
+.testimonial h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-weight: 800;
+}
+
+.testimonial{
+    padding-bottom: 70px;
+}
+
+.testimonial img{
+    width: 35%;
+    float: right;
+}
+
+.testimonial p{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 40px;
+    margin-top: 30px;
 }
